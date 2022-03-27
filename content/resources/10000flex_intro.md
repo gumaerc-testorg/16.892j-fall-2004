@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cdd17381-3670-14fb-4ae8-517a5732b217
 resourcetype: Document
 title: 10000flex_intro.pdf
 uid: 8b004cbb-3b83-937f-840f-b0f3c4d359f9

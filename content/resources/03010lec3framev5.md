@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e0eed86f-5693-f887-d901-3ae41a2bb482
 resourcetype: Document
 title: 03010lec3framev5.pdf
 uid: 5c7b371f-eea1-c156-3d91-7c1858f58ec7

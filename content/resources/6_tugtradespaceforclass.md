@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0b98c26a-cae5-0b29-0dac-6ddfdd3c814e
 resourcetype: Other
 title: 6_TugTradespaceforclass.xls
 uid: 3bf23606-f2f6-5f37-52c6-28f6a4dab230

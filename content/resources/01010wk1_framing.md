@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cdd17381-3670-14fb-4ae8-517a5732b217
 resourcetype: Document
 title: 01010wk1_framing.pdf
 uid: 0bbea039-a364-d909-9f02-573386b370a1

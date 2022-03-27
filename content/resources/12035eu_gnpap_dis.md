@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cdd17381-3670-14fb-4ae8-517a5732b217
 resourcetype: Document
 title: 12035eu_gnpap_dis.pdf
 uid: a167303d-f726-675d-236c-7173cdff0ce4

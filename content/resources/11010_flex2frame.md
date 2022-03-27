@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e0eed86f-5693-f887-d901-3ae41a2bb482
 resourcetype: Document
 title: 11010_flex2frame.pdf
 uid: f3d08e9b-2935-bf6f-e44e-8dd8eba6296b

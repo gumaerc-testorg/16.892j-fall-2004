@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cdd17381-3670-14fb-4ae8-517a5732b217
 resourcetype: Document
 title: 06000lec6outinv3.pdf
 uid: 7551f3e8-4356-9570-5315-2d4583c9514b

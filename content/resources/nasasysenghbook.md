@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cdd17381-3670-14fb-4ae8-517a5732b217
 resourcetype: Document
 title: nasasysenghbook.pdf
 uid: fd7c9fcc-0cd4-8ae7-bb53-48ce30df515c

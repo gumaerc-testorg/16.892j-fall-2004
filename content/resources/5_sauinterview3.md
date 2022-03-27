@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0b98c26a-cae5-0b29-0dac-6ddfdd3c814e
 resourcetype: Other
 title: 5_SAUInterview3.xls
 uid: fcf8d822-a0f6-2cba-6537-dc65c46a416f

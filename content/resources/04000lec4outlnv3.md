@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: cdd17381-3670-14fb-4ae8-517a5732b217
 resourcetype: Document
 title: 04000lec4outlnv3.pdf
 uid: e5374481-67e5-157e-7c4f-94d5a46509e2

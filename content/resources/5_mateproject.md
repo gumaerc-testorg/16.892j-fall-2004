@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 0b98c26a-cae5-0b29-0dac-6ddfdd3c814e
 resourcetype: Document
 title: 5_mateproject.pdf
 uid: 3d9716d7-eba6-12bf-b2ef-a06f9f9df49e
