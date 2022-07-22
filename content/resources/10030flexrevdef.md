@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This resource includes a literature review on Flexibility.
-file: /media/courses/16-892j-space-system-architecture-and-design-fall-2004/e056cef63e39e40bfa98b5b1dbebe4e9_10030flexrevdef.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/e056cef63e39e40bfa98b5b1dbebe4e9_10030flexrevdef.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: 10030flexrevdef.pdf
 uid: e056cef6-3e39-e40b-fa98-b5b1dbebe4e9
 ---
+This resource includes a literature review on Flexibility.

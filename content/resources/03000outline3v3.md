@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: This reading material is on the Introduction to MATE-CON.
-file: /media/courses/16-892j-space-system-architecture-and-design-fall-2004/b9834feca9a674d9c136f4db77fee06b_03000outline3v3.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/b9834feca9a674d9c136f4db77fee06b_03000outline3v3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -13,3 +14,4 @@ resourcetype: Document
 title: 03000outline3v3.pdf
 uid: b9834fec-a9a6-74d9-c136-f4db77fee06b
 ---
+This reading material is on the Introduction to MATE-CON.
