@@ -3,6 +3,7 @@ content_type: resource
 description: This reading contains Learning objectives, Required reading and Recommended
   reading on Policy & Other Issues.
 file: /courses/16-892j-space-system-architecture-and-design-fall-2004/630031b78dbc514fd61fb8cc1e2ef298_12000pol_intro.pdf
+file_size: 33316
 file_type: application/pdf
 learning_resource_types:
 - Readings
