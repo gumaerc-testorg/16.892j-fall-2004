@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-892j-space-system-architecture-and-design-fall-2004/e5e9dea39ad9594ab73c4c56024bf659_nasasysenghbookpdf.pdf
+file_size: 2484796
 file_type: application/pdf
 learning_resource_types:
 - Readings

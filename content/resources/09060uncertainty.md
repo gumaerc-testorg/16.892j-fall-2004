@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains Incorporating Uncertainty into Conceptual Design
   of Space System Architectures.
 file: /courses/16-892j-space-system-architecture-and-design-fall-2004/c752cb55b6acbecbdbb573c0a235d7c4_09060uncertainty.pdf
+file_size: 628899
 file_type: application/pdf
 learning_resource_types:
 - Readings
