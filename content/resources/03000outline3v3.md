@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This reading material is on the Introduction to MATE-CON.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/b9834feca9a674d9c136f4db77fee06b_03000outline3v3.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/b9834feca9a674d9c136f4db77fee06b_03000outline3v3.pdf
 file_size: 68234
 file_type: application/pdf
 learning_resource_types:

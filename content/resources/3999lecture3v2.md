@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This course material is on Architecture Trade Space Exploration.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/153e61478f3b4c67628d9c1deb35672a_3999lecture3v2.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/153e61478f3b4c67628d9c1deb35672a_3999lecture3v2.pdf
 file_size: 2651075
 file_type: application/pdf
 learning_resource_types:
