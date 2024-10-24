@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This course material is on calculations of Flexibility in Space Systems.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/5a3697be29d3b0624a20ddf692560b49_11999flexibility.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/5a3697be29d3b0624a20ddf692560b49_11999flexibility.pdf
 file_size: 1575528
 file_type: application/pdf
 learning_resource_types:

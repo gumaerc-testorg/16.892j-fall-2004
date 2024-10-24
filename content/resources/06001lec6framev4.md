@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a draft on "SSPARC book" material for lecture 6.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/e5cffd6a11a063ee53aba05375226cf4_06001lec6framev4.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/e5cffd6a11a063ee53aba05375226cf4_06001lec6framev4.pdf
 file_size: 1270454
 file_type: application/pdf
 learning_resource_types:
