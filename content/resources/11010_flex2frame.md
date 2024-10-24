@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This course material is on Flexibility and On Orbit Servicing.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/f3d08e9b2935bf6fe44e8dd8eba6296b_11010_flex2frame.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/f3d08e9b2935bf6fe44e8dd8eba6296b_11010_flex2frame.pdf
 file_size: 32752
 file_type: application/pdf
 learning_resource_types:

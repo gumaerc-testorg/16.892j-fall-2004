@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the required readings for uncertainty.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/7fc073a600e722631e0f5849105698d5_09000_uncert_int.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/7fc073a600e722631e0f5849105698d5_09000_uncert_int.pdf
 file_size: 39096
 file_type: application/pdf
 learning_resource_types:
