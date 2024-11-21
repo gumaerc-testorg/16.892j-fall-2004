@@ -41,10 +41,10 @@ NASA new design paradigm: Goldin, Daniel S., Samuel L. Venneri, and Ahmed K. Noo
 
 *Recommended*
 
-History of US MILSATCOM: Martin, Donald H. "[A History of U.S. Military Satellite Communication Systems](https://pdfs.semanticscholar.org/3af2/7a89c1f1ded8b73c6e42df3c283e611d3acc.pdf)." *Crosslink* 3, no. 1 (Winter 2001/2002).    
+History of US MILSATCOM: Martin, Donald H. "[A History of U.S. Military Satellite Communication Systems](https://pdfs.semanticscholar.org/3af2/7a89c1f1ded8b73c6e42df3c283e611d3acc.pdf)." *Crosslink* 3, no. 1 (Winter 2001/2002).     
 See also [MILSATCOM descriptions](https://web.archive.org/web/20120728161721/https://www.smi-online.co.uk/defence/asia/milsatcom-asia).
 
-[GPS site](http://geodemo-c.ucsd.edu/gridsphere/gridsphere).
+[GPS site](https://web.archive.org/web/20080221023513/http://geodemo-c.ucsd.edu/gridsphere/gridsphere).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -118,7 +118,7 @@ Integrated Concurrent Engineering
 
 Neff, J., and S. P. Presley. "Implementing a Collaborative Conceptual Design System: The Human Element is the Most Powerful Part of the System." *2000 IEEE Aerospace Conference Proceedings.* Vol. 1. Big Sky, Montana, March 2000, pp. 341-353.
 
-Aguilar, J. A., and A. Dawdy. "Scope vs. Detail: The Teams of the Concept Design Center." *2000 IEEE Aerospace Conference Proceedings.* Vol. 1. Big Sky, Montana, March 2000, pp. 465-482.    
+Aguilar, J. A., and A. Dawdy. "Scope vs. Detail: The Teams of the Concept Design Center." *2000 IEEE Aerospace Conference Proceedings.* Vol. 1. Big Sky, Montana, March 2000, pp. 465-482.     
 Parkin, K., J. Sercel, M. Liu, and D. Thunnissen. "ICEMaker: An Excel-Based Environment for Collaborative Design." *2003 IEEE Aerospace Conference Proceedings.* Big Sky, Montana, March 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
