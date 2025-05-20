@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a description for project assignment on Quick-Launch Spacetug.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/3d9716d7eba612bfb2efa06f9f9df49e_5_mateproject.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/3d9716d7eba612bfb2efa06f9f9df49e_5_mateproject.pdf
 file_size: 104062
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains learning objectives, required readings and Homework
   on Flexibility.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/8b004cbb3b83937f840fb0f3c4d359f9_10000flex_intro.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/8b004cbb3b83937f840fb0f3c4d359f9_10000flex_intro.pdf
 file_size: 35285
 file_type: application/pdf
 learning_resource_types:

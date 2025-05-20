@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This lecture session is on "SSPARC book" material for Lecture 3.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/5c7b371feea1c1563d917c1858f58ec7_03010lec3framev5.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/5c7b371feea1c1563d917c1858f58ec7_03010lec3framev5.pdf
 file_size: 849884
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives a discussion on Integrated Concurrent Engineering
   (ICE) and MATE-CON.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/bd832f0231a378de34bee44febe0ef94_06999lecture6.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/bd832f0231a378de34bee44febe0ef94_06999lecture6.pdf
 file_size: 2827963
 file_type: application/pdf
 learning_resource_types:
