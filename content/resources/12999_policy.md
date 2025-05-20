@@ -2,7 +2,7 @@
 content_type: resource
 description: This course material is on Policy Choices on Space Systems - Definition
   and description.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/7f17df9eb77752a958805c89bc22a016_12999_policy.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/7f17df9eb77752a958805c89bc22a016_12999_policy.pdf
 file_size: 643069
 file_type: application/pdf
 learning_resource_types:

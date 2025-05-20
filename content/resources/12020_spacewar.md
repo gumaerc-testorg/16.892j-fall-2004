@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This materials has a Final Research/Analysis Paper.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/45b35d15fbd49ff0bcfdb2413e28bdd8_12020_spacewar.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/45b35d15fbd49ff0bcfdb2413e28bdd8_12020_spacewar.pdf
 file_size: 132463
 file_type: application/pdf
 learning_resource_types:
