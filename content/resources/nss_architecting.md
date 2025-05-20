@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strategic Focus and Unity of Effort Across National Security Space.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/7ad27e0255200ef7a37cd57da79aabbb_nss_architecting.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/7ad27e0255200ef7a37cd57da79aabbb_nss_architecting.pdf
 file_size: 1106897
 file_type: application/pdf
 learning_resource_types:

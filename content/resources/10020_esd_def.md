@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains ESD Terms and Definitions (Version 12).
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/73d5ce294f93e896c6568288bd9989c1_10020_esd_def.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/73d5ce294f93e896c6568288bd9989c1_10020_esd_def.pdf
 file_size: 120579
 file_type: application/pdf
 learning_resource_types:

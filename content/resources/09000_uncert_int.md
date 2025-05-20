@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains learning objectives, required reading and homework
   on Uncertainty.
-file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/e556380c4236e35fc4118b58744d63bd_09000_uncert_int.pdf
+file: /courses/16-892j-space-system-architecture-and-design-fall-2004/e556380c4236e35fc4118b58744d63bd_09000_uncert_int.pdf
 file_size: 39096
 file_type: application/pdf
 learning_resource_types:
