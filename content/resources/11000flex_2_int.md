@@ -2,7 +2,7 @@
 content_type: resource
 description: This resouce contains Learning Objectives, Required Reading and Recommended
   Reading on Flexibility II.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/35811ef5d5cd02415e1b981129233997_11000flex_2_int.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/35811ef5d5cd02415e1b981129233997_11000flex_2_int.pdf
 file_size: 36057
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information on readings for integrated concurrent
   engineering.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/26b394132516d049a356d8daa0a9ec25_06000lec6outinv3.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/26b394132516d049a356d8daa0a9ec25_06000lec6outinv3.pdf
 file_size: 58619
 file_type: application/pdf
 learning_resource_types:
