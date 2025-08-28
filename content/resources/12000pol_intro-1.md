@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains objectives, readings for policy and other issues.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/52208ad82bc9247dc711426f4519ab8d_12000pol_intro.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/52208ad82bc9247dc711426f4519ab8d_12000pol_intro.pdf
 file_size: 33316
 file_type: application/pdf
 learning_resource_types:

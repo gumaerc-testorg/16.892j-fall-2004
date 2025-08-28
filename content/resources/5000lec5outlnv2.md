@@ -2,7 +2,7 @@
 content_type: resource
 description: This reading material is on Modeling and Exploring the Tradespace Week
   5 Framing.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/973ee6364f8cead7026c3253cc154c67_5000lec5outlnv2.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/973ee6364f8cead7026c3253cc154c67_5000lec5outlnv2.pdf
 file_size: 64110
 file_type: application/pdf
 learning_resource_types:

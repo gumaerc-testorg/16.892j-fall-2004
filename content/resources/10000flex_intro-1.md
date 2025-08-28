@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains readings, problems for flexibility.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/0c0bef9dc00d7fdfbbd72ebd7cba4eaf_10000flex_intro.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/0c0bef9dc00d7fdfbbd72ebd7cba4eaf_10000flex_intro.pdf
 file_size: 35285
 file_type: application/pdf
 learning_resource_types:
