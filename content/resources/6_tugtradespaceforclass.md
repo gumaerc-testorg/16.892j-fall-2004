@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data on Tradespace.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/3bf23606f2f65f3752c628f6a4dab230_6_TugTradespaceforclass.xls
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/3bf23606f2f65f3752c628f6a4dab230_6_TugTradespaceforclass.xls
 file_size: 442880
 file_type: application/msword
 learning_resource_types:

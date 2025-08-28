@@ -2,7 +2,7 @@
 content_type: resource
 description: This reading material is a lecture on Space Systems and Definitions Framing
   Document by Annalisa Weigel, Space System Architecture.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/0bbea039a364d9099f02573386b370a1_01010wk1_framing.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/0bbea039a364d9099f02573386b370a1_01010wk1_framing.pdf
 file_size: 118803
 file_type: application/pdf
 learning_resource_types:

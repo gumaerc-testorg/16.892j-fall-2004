@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a reading material on understanding uncertainty and
   its mitigation and exploitation in complex systems.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/b8776a2613ee77df6a9abf9d56d44172_09999_unc_slides.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/b8776a2613ee77df6a9abf9d56d44172_09999_unc_slides.pdf
 file_size: 811010
 file_type: application/pdf
 learning_resource_types:

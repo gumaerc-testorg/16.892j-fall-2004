@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes readings on Spacecraft Subsystems.
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/6e3a4535cf1edbdc995422ab0520bb68_06005xtossubsyst.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/6e3a4535cf1edbdc995422ab0520bb68_06005xtossubsyst.pdf
 file_size: 670020
 file_type: application/pdf
 learning_resource_types:

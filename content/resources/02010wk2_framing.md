@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This reading material is on the Lecture 2: Classical Solutions Framing
   Document by Hugh McManus, Space System Architecture.'
-file: /courses/16-892j-space-system-architecture-and-design-fall-2004/c4673e2e742fedd534d650fc39bc7f60_02010wk2_framing.pdf
+file: /ol-ocw-studio-app/courses/16-892j-space-system-architecture-and-design-fall-2004/c4673e2e742fedd534d650fc39bc7f60_02010wk2_framing.pdf
 file_size: 122703
 file_type: application/pdf
 learning_resource_types:
